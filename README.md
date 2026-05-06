@@ -1,2 +1,1 @@
-# odin_recipes
-Recipes project
+Creating a recipes page using HTML
